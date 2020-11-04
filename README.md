@@ -1,4 +1,4 @@
-# movement_prediction_framework
+# People Movement Prediction Framework
 
 
 The ability to accurately predict people movement is crucial to numerous domains such as wireless networks, HCI, social science, urban planning, transportation, etc. While predicting the movement of a person, we seek the answers to three fundamental questions: (1) where will the person stay at a future time (i.e., location)?, (2) How long will she stay at the location (i.e., stay duration)?, and (3) Who will she meet (i.e., contact)? Providing answers to three questions altogether remains challenging due to the: (1) complex nature of people movement, and (2) lack of a realistic people movement trace used to construct an accurate predictive model of people movement. On the other hand, it is believed that people movement exhibits a high degree of repetition, in which people visit regular places for their daily activities. 
@@ -13,7 +13,8 @@ The below figure shows steps of the framework to construct the predictive model 
 
 
 
-Reference:
+# Reference
+
 1. "Jyotish: A novel framework for constructing predictive model of people movement from joint wifi/bluetooth trace", Long Vu, Quang Do, Klara Nahrstedt, EEE International Conference on Pervasive Computing and Communications, 2011
 
 2. "Joint bluetooth/wifi scanning framework for characterizing and leveraging people movement in university campus", Long Vu, Klara Nahrstedt, Samuel Retika, Indranil Gupta, ACM international conference on Modeling, analysis, and simulation of wireless and mobile systems, 2010
